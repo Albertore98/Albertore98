@@ -24,7 +24,7 @@ I'm Alberto, a telecommunications engineering student coming from Spain, working
 - 🌱 I’m currently learning fpga utilization, python, and constantly improving on the electronics and programming side.
   
 - 👯 I’m looking to collaborate on anything related to my interests, just enjoy learning and I am very passionate about my studies
-- 
+  
 - 🤔 I’m looking for help with how to be a more efficient programmer, and some of the next steps to take and become a professional.
   
 - 💬 Ask me about anything you might have curiosity about me.
